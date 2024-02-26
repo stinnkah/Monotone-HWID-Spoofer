@@ -1,8 +1,10 @@
 # Monotone-HWID-Spoofer
 Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 <br>
+
+![image](https://github.com/stinnkah/Monotone-HWID-Spoofer/assets/161317762/8d401d17-3c1f-40df-a54b-f382c4fab92e)
+
 ## How To Use
-* `git clone https://github.com/sr2echa/Monotone-HWID-Spoofer.git`
 * cd `Monotone-HWID-Spoofer`
 * open monotone.exe
 * give admin privilages
